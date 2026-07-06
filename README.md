@@ -8,7 +8,6 @@ I specialize in transforming ideas into seamless user experiences through though
 
 ### 💼 What I Do
 
-- 🎨 Product & UI/UX Design
 - 📱 Mobile & Web Application Design
 - 🧩 Design Systems
 - 🔍 User Research & Usability Testing
