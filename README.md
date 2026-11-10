@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Adepetun Robert Kehinde
 
-## 🚀 Product Designer | Web Developer [MERN STACK]
+## 🚀 Product Designer | Full Stack Developer [MERN STACK]
 
-I'm a Product Designer and Web Developer with over **6 years of experience** creating intuitive, scalable, and user-centered digital products for web and mobile platforms.
+I'm a Product Designer and Full Stack Web Developer with **years of experience** creating intuitive, scalable, and user-centered digital products for web and mobile platforms.
 
 I specialize in transforming ideas into seamless user experiences through thoughtful research, modern UI design, and responsive frontend development. My goal is to build products that not only look great but also solve real user problems and drive business growth.
 
@@ -11,7 +11,7 @@ I specialize in transforming ideas into seamless user experiences through though
 - 📱 Mobile & Web Application Design
 - 🧩 Design Systems
 - 🔍 User Research & Usability Testing
-- 💻 Web Development
+- 💻 Web Development (UI)/Backend Deployment
 - ⚡ Design-to-Code Implementation
 
 ### 🛠️ Tech Stack
@@ -26,8 +26,8 @@ I specialize in transforming ideas into seamless user experiences through though
 - CSS3
 - Tailwind CSS
 - JavaScript (ES6+)
-- React.js
-- TypeScrpt.js
+- React
+- TypeScrpt
 - Next.js
 
 **Backend**
